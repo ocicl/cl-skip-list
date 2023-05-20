@@ -1,0 +1,11 @@
+* cl-skip-list
+
+Lockless skip lists for Common Lisp; well, for now sbcl 1.0.42 or
+higher. Contributions for other Lisps welcome.  See the README file
+for a list of what is required.
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/kraison/cl-skip-list.git |
+| commit  | 0d707f4                                         |
+| systems | cl-skip-list                                    |
+|---------+-------------------------------------------------|
